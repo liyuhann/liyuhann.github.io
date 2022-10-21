@@ -1051,7 +1051,9 @@ sup {
     font-size: 1.3em;
   }
 }
-.content h3 a,
+.content h3 a {
+  color: #000;
+}
 .content h3 button {
   color: #2196f3;
 }
